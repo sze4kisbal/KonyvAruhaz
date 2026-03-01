@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonyvAruhaz.Doman", "src\KonyvAruhaz.Doman\KonyvAruhaz.Doman.csproj", "{17142F76-C1FF-4BF1-B06D-94FB0142CC83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E1068862-062E-49D7-A6A3-8ED9C8A4D421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonyvAruhaz.Alkalmazas", "src\KonyvAruhaz.Alkalmazas\KonyvAruhaz.Alkalmazas.csproj", "{F1C14EAA-002A-4503-801C-6F625063B139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonyvAruhaz.Infrastruktura", "src\KonyvAruhaz.Infrastruktura\KonyvAruhaz.Infrastruktura.csproj", "{22A39226-2CFF-4465-B544-36B5DD2DAA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonyvAruhaz.Web", "src\KonyvAruhaz.Web\KonyvAruhaz.Web.csproj", "{92FA5881-7F4F-4C15-B656-C159C38A7409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonyvAruhaz.Asztali", "src\KonyvAruhaz.Asztali\KonyvAruhaz.Asztali.csproj", "{9BB54C66-FE81-4E99-9776-269DB5B9A1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonyvAruhaz.Szerzodesek", "src\KonyvAruhaz.Szerzodesek\KonyvAruhaz.Szerzodesek.csproj", "{561572F8-A772-4A4D-B2FF-AA3A7F9B6F17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17142F76-C1FF-4BF1-B06D-94FB0142CC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17142F76-C1FF-4BF1-B06D-94FB0142CC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17142F76-C1FF-4BF1-B06D-94FB0142CC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17142F76-C1FF-4BF1-B06D-94FB0142CC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C14EAA-002A-4503-801C-6F625063B139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C14EAA-002A-4503-801C-6F625063B139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C14EAA-002A-4503-801C-6F625063B139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C14EAA-002A-4503-801C-6F625063B139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A39226-2CFF-4465-B544-36B5DD2DAA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A39226-2CFF-4465-B544-36B5DD2DAA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A39226-2CFF-4465-B544-36B5DD2DAA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A39226-2CFF-4465-B544-36B5DD2DAA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92FA5881-7F4F-4C15-B656-C159C38A7409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FA5881-7F4F-4C15-B656-C159C38A7409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FA5881-7F4F-4C15-B656-C159C38A7409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FA5881-7F4F-4C15-B656-C159C38A7409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB54C66-FE81-4E99-9776-269DB5B9A1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB54C66-FE81-4E99-9776-269DB5B9A1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB54C66-FE81-4E99-9776-269DB5B9A1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB54C66-FE81-4E99-9776-269DB5B9A1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561572F8-A772-4A4D-B2FF-AA3A7F9B6F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561572F8-A772-4A4D-B2FF-AA3A7F9B6F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561572F8-A772-4A4D-B2FF-AA3A7F9B6F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561572F8-A772-4A4D-B2FF-AA3A7F9B6F17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{17142F76-C1FF-4BF1-B06D-94FB0142CC83} = {E1068862-062E-49D7-A6A3-8ED9C8A4D421}
+		{F1C14EAA-002A-4503-801C-6F625063B139} = {E1068862-062E-49D7-A6A3-8ED9C8A4D421}
+		{22A39226-2CFF-4465-B544-36B5DD2DAA16} = {E1068862-062E-49D7-A6A3-8ED9C8A4D421}
+		{92FA5881-7F4F-4C15-B656-C159C38A7409} = {E1068862-062E-49D7-A6A3-8ED9C8A4D421}
+		{9BB54C66-FE81-4E99-9776-269DB5B9A1C1} = {E1068862-062E-49D7-A6A3-8ED9C8A4D421}
+		{561572F8-A772-4A4D-B2FF-AA3A7F9B6F17} = {E1068862-062E-49D7-A6A3-8ED9C8A4D421}
+	EndGlobalSection
+EndGlobal

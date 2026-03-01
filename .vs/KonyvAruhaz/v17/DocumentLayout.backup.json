@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\KonyvAruhaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A39226-2CFF-4465-B544-36B5DD2DAA16}|src\\KonyvAruhaz.Infrastruktura\\KonyvAruhaz.Infrastruktura.csproj|c:\\dev\\konyvaruhaz\\src\\konyvaruhaz.infrastruktura\\adat\\konyvaruhazdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A39226-2CFF-4465-B544-36B5DD2DAA16}|src\\KonyvAruhaz.Infrastruktura\\KonyvAruhaz.Infrastruktura.csproj|solutionrelative:src\\konyvaruhaz.infrastruktura\\adat\\konyvaruhazdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FA5881-7F4F-4C15-B656-C159C38A7409}|src\\KonyvAruhaz.Web\\KonyvAruhaz.Web.csproj|c:\\dev\\konyvaruhaz\\src\\konyvaruhaz.web\\controllers\\api\\konyvekapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FA5881-7F4F-4C15-B656-C159C38A7409}|src\\KonyvAruhaz.Web\\KonyvAruhaz.Web.csproj|solutionrelative:src\\konyvaruhaz.web\\controllers\\api\\konyvekapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17142F76-C1FF-4BF1-B06D-94FB0142CC83}|src\\KonyvAruhaz.Doman\\KonyvAruhaz.Doman.csproj|c:\\dev\\konyvaruhaz\\src\\konyvaruhaz.doman\\entitasok\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17142F76-C1FF-4BF1-B06D-94FB0142CC83}|src\\KonyvAruhaz.Doman\\KonyvAruhaz.Doman.csproj|solutionrelative:src\\konyvaruhaz.doman\\entitasok\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17142F76-C1FF-4BF1-B06D-94FB0142CC83}|src\\KonyvAruhaz.Doman\\KonyvAruhaz.Doman.csproj|c:\\dev\\konyvaruhaz\\src\\konyvaruhaz.doman\\entitasok\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17142F76-C1FF-4BF1-B06D-94FB0142CC83}|src\\KonyvAruhaz.Doman\\KonyvAruhaz.Doman.csproj|solutionrelative:src\\konyvaruhaz.doman\\entitasok\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FA5881-7F4F-4C15-B656-C159C38A7409}|src\\KonyvAruhaz.Web\\KonyvAruhaz.Web.csproj|c:\\dev\\konyvaruhaz\\src\\konyvaruhaz.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FA5881-7F4F-4C15-B656-C159C38A7409}|src\\KonyvAruhaz.Web\\KonyvAruhaz.Web.csproj|solutionrelative:src\\konyvaruhaz.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FA5881-7F4F-4C15-B656-C159C38A7409}|src\\KonyvAruhaz.Web\\KonyvAruhaz.Web.csproj|c:\\dev\\konyvaruhaz\\src\\konyvaruhaz.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92FA5881-7F4F-4C15-B656-C159C38A7409}|src\\KonyvAruhaz.Web\\KonyvAruhaz.Web.csproj|solutionrelative:src\\konyvaruhaz.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A39226-2CFF-4465-B544-36B5DD2DAA16}|src\\KonyvAruhaz.Infrastruktura\\KonyvAruhaz.Infrastruktura.csproj|c:\\dev\\konyvaruhaz\\src\\konyvaruhaz.infrastruktura\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A39226-2CFF-4465-B544-36B5DD2DAA16}|src\\KonyvAruhaz.Infrastruktura\\KonyvAruhaz.Infrastruktura.csproj|solutionrelative:src\\konyvaruhaz.infrastruktura\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KonyvekApiController.cs",
+              "DocumentMoniker": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Web\\Controllers\\Api\\KonyvekApiController.cs",
+              "RelativeDocumentMoniker": "src\\KonyvAruhaz.Web\\Controllers\\Api\\KonyvekApiController.cs",
+              "ToolTip": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Web\\Controllers\\Api\\KonyvekApiController.cs",
+              "RelativeToolTip": "src\\KonyvAruhaz.Web\\Controllers\\Api\\KonyvekApiController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA2wBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:33:20.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KonyvAruhazDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Infrastruktura\\Adat\\KonyvAruhazDbContext.cs",
+              "RelativeDocumentMoniker": "src\\KonyvAruhaz.Infrastruktura\\Adat\\KonyvAruhazDbContext.cs",
+              "ToolTip": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Infrastruktura\\Adat\\KonyvAruhazDbContext.cs",
+              "RelativeToolTip": "src\\KonyvAruhaz.Infrastruktura\\Adat\\KonyvAruhazDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T15:56:00.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Konyv.cs",
+              "DocumentMoniker": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Doman\\Entitasok\\Konyv.cs",
+              "RelativeDocumentMoniker": "src\\KonyvAruhaz.Doman\\Entitasok\\Konyv.cs",
+              "ToolTip": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Doman\\Entitasok\\Konyv.cs",
+              "RelativeToolTip": "src\\KonyvAruhaz.Doman\\Entitasok\\Konyv.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:22:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kategoria.cs",
+              "DocumentMoniker": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Doman\\Entitasok\\Kategoria.cs",
+              "RelativeDocumentMoniker": "src\\KonyvAruhaz.Doman\\Entitasok\\Kategoria.cs",
+              "ToolTip": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Doman\\Entitasok\\Kategoria.cs",
+              "RelativeToolTip": "src\\KonyvAruhaz.Doman\\Entitasok\\Kategoria.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:21:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\KonyvAruhaz.Web\\Program.cs",
+              "ToolTip": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Web\\Program.cs",
+              "RelativeToolTip": "src\\KonyvAruhaz.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T16:00:08.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\KonyvAruhaz.Web\\appsettings.json",
+              "ToolTip": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Web\\appsettings.json",
+              "RelativeToolTip": "src\\KonyvAruhaz.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T15:59:27.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Infrastruktura\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\KonyvAruhaz.Infrastruktura\\Class1.cs",
+              "ToolTip": "C:\\Dev\\KonyvAruhaz\\src\\KonyvAruhaz.Infrastruktura\\Class1.cs",
+              "RelativeToolTip": "src\\KonyvAruhaz.Infrastruktura\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T15:54:12.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

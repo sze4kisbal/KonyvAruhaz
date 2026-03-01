@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KonyvAruhaz.Doman\KonyvAruhaz.Doman.csproj" />
+    <ProjectReference Include="..\KonyvAruhaz.Szerzodesek\KonyvAruhaz.Szerzodesek.csproj" />
+  </ItemGroup>
+
+</Project>
