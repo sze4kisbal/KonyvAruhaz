@@ -420,3 +420,4 @@ C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Web\obj\Debug\net9.0\refint\KonyvAruhaz.Web.d
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Web\obj\Debug\net9.0\KonyvAruhaz.Web.pdb
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Web\obj\Debug\net9.0\KonyvAruhaz.Web.genruntimeconfig.cache
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Web\obj\Debug\net9.0\ref\KonyvAruhaz.Web.dll
+C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Web\obj\Debug\net9.0\KonyvAruhaz.Web.sourcelink.json

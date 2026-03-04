@@ -40,3 +40,4 @@ C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Infrastruktura\obj\Debug\net9.0\refint\KonyvA
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Infrastruktura\obj\Debug\net9.0\KonyvAruhaz.Infrastruktura.pdb
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Infrastruktura\obj\Debug\net9.0\KonyvAruhaz.Infrastruktura.genruntimeconfig.cache
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Infrastruktura\obj\Debug\net9.0\ref\KonyvAruhaz.Infrastruktura.dll
+C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Infrastruktura\obj\Debug\net9.0\KonyvAruhaz.Infrastruktura.sourcelink.json

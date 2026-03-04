@@ -17,6 +17,11 @@ public class KonyvAruhazDbContext : DbContext
     public DbSet<Konyv> Konyvek => Set<Konyv>();
     public DbSet<Kategoria> Kategoriak => Set<Kategoria>();
 
+    public DbSet<Felhasznalo> Felhasznalok => Set<Felhasznalo>();
+    public DbSet<Rendeles> Rendelesek => Set<Rendeles>();
+    public DbSet<RendelesTetel> RendelesTetelek => Set<RendelesTetel>();
+
+
     //18,2 = max 18 számjegy összesen, 2 tizedes — pénzhez jó.
     protected override void OnModelCreating(ModelBuilder modell)
     {
@@ -25,8 +30,11 @@ public class KonyvAruhazDbContext : DbContext
         modell.Entity<Konyv>()
             .Property(x => x.Ar)
             .HasPrecision(18, 2);
-    }
 
+        modell.Entity<RendelesTetel>()
+            .Property(x => x.EgysegAr)
+            .HasPrecision(18, 2);
+    }
 
 
 }

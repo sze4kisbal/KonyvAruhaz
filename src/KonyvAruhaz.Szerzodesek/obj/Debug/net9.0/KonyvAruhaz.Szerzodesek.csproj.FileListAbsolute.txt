@@ -20,3 +20,4 @@ C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Szerzodesek\obj\Debug\net9.0\KonyvAruhaz.Szer
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Szerzodesek\obj\Debug\net9.0\refint\KonyvAruhaz.Szerzodesek.dll
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Szerzodesek\obj\Debug\net9.0\KonyvAruhaz.Szerzodesek.pdb
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Szerzodesek\obj\Debug\net9.0\ref\KonyvAruhaz.Szerzodesek.dll
+C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Szerzodesek\obj\Debug\net9.0\KonyvAruhaz.Szerzodesek.sourcelink.json

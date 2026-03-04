@@ -20,3 +20,4 @@ C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Doman\obj\Debug\net9.0\KonyvAruhaz.Doman.dll
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Doman\obj\Debug\net9.0\refint\KonyvAruhaz.Doman.dll
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Doman\obj\Debug\net9.0\KonyvAruhaz.Doman.pdb
 C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Doman\obj\Debug\net9.0\ref\KonyvAruhaz.Doman.dll
+C:\Dev\KonyvAruhaz\src\KonyvAruhaz.Doman\obj\Debug\net9.0\KonyvAruhaz.Doman.sourcelink.json
