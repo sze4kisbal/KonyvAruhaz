@@ -1,5 +1,19 @@
-.vs/
+# Build output
 **/bin/
 **/obj/
+
+# Visual Studio
+.vs/
 *.user
 *.suo
+
+# Rider / VSCode (ha lenne)
+.idea/
+.vscode/
+
+# NuGet
+**/packages/
+
+# OS
+Thumbs.db
+.DS_Store
